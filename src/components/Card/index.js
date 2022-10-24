@@ -8,7 +8,7 @@ function Card() {
         <img
           className={card.hero_image}
           alt='young lady'
-          src={process.env.PUBLIC_URL + '/images/hero-mobile.jpg'}
+          // src={process.env.PUBLIC_URL + '/images/hero-mobile.jpg'}
         ></img>
       </header>
       {/* Hero image */}
