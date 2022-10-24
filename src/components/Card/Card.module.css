@@ -1,9 +1,33 @@
-.wrapper {
+.logo {
+  margin: 1.8rem;
+  width: 100px;
 }
 
-.hero_image {
-  background-image: url('../../assets/images/hero-mobile.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.typography {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-inline: 2.75rem;
+}
+
+.headline {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.7rem;
+  line-height: 2.6rem;
+  padding-block: 3.8rem 1rem;
+}
+
+.copy {
+  font-size: 0.85rem;
+  line-height: 1.4rem;
+}
+
+.mainColor {
+  color: var(--desat-red);
+}
+
+.weightThin {
+  font-weight: 300;
 }
