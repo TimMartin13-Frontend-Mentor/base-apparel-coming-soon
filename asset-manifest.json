@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/base-apparel-coming-soon/static/css/main.ef78387b.css",
-    "main.js": "/base-apparel-coming-soon/static/js/main.f10d1c22.js",
+    "main.css": "/base-apparel-coming-soon/static/css/main.60c6fdae.css",
+    "main.js": "/base-apparel-coming-soon/static/js/main.cd4b50cc.js",
     "static/js/787.2c39aa29.chunk.js": "/base-apparel-coming-soon/static/js/787.2c39aa29.chunk.js",
-    "static/media/hero-mobile.jpg": "/base-apparel-coming-soon/static/media/hero-mobile.1afd055b71b78462d388.jpg",
     "index.html": "/base-apparel-coming-soon/index.html",
-    "main.ef78387b.css.map": "/base-apparel-coming-soon/static/css/main.ef78387b.css.map",
-    "main.f10d1c22.js.map": "/base-apparel-coming-soon/static/js/main.f10d1c22.js.map",
+    "main.60c6fdae.css.map": "/base-apparel-coming-soon/static/css/main.60c6fdae.css.map",
+    "main.cd4b50cc.js.map": "/base-apparel-coming-soon/static/js/main.cd4b50cc.js.map",
     "787.2c39aa29.chunk.js.map": "/base-apparel-coming-soon/static/js/787.2c39aa29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef78387b.css",
-    "static/js/main.f10d1c22.js"
+    "static/css/main.60c6fdae.css",
+    "static/js/main.cd4b50cc.js"
   ]
 }
